@@ -33,10 +33,9 @@ export default function Home(props) {
         <main className="px-10 bg-slate-200 dark:bg-gray-900 dark:text-slate-50">
           <section className=" min-h-screen">
             <Navbar darkMode={darkMode} setDarkMode={setDarkMode} />
-
             <div className="text-center ">
               <h1 className="text-5xl font-semibold text-teal-600 ">
-                Sundar Bharath
+                BHARATH
               </h1>
               <h3 className="text-3xl py-3 ">Student In SP</h3>
               <p className="text-md text-gray-600 py-5 dark:text-gray-400">
